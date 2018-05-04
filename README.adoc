@@ -1,1 +1,7 @@
 = Custom Keyboard
+
+== Links
+
+* https://docs.qmk.fm/
+* https://qmk.fm/
+* http://qmkeyboard.cn/
